@@ -1,0 +1,15 @@
+@font-face {
+  font-family: shabnam;
+  font-weight: normal;
+  src: url('./shabnam/Shabnam.eot') format('embedded-opentype'), /* IE6-IE8 */
+  url('./shabnam/Shabnam.woff') format('woff'), /* Pretty Modern Browsers */
+  url('./shabnam/Shabnam.ttf')  format('truetype')/* Safari, Android, iOS */
+}
+
+@font-face {
+  font-family: shabnam;
+  font-weight: bold;
+  src: url('./shabnam/Shabnam-Bold.eot') format('embedded-opentype'), /* IE6-IE8 */
+  url('./shabnam/Shabnam-Bold.woff') format('woff'), /* Pretty Modern Browsers */
+  url('./shabnam/Shabnam-Bold.ttf')  format('truetype') /* Safari, Android, iOS */
+}

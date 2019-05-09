@@ -3,6 +3,9 @@ import ReactDOM from 'react-dom';
 import './index.scss';
 import App from './routes/App';
 import * as serviceWorker from './serviceWorker';
+import { initializeIcons } from '@uifabric/icons';
+
+initializeIcons();
 
 ReactDOM.render(<App />, document.getElementById('root'));
 
